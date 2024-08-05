@@ -1,1 +1,3 @@
-# sw2
+# SW2
+Projects developed to learn APIs.
+
